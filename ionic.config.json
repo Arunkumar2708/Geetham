@@ -1,0 +1,7 @@
+{
+  "name": "geetham",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
